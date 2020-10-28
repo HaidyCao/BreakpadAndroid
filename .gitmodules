@@ -1,0 +1,4 @@
+[submodule "breakpad/src/main/cpp/breakpad"]
+	path = breakpad/src/main/cpp/breakpad
+	url = https://github.com/HaidyCao/breakpad.git
+	branch = main
